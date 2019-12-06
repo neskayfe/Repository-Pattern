@@ -1,0 +1,11 @@
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\obj\Debug\Example_Repository_Pattern.DAL.csproj.CoreCompileInputs.cache
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\bin\Debug\Example_Repository_Pattern.DAL.dll.config
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\bin\Debug\Example_Repository_Pattern.DAL.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\bin\Debug\Example_Repository_Pattern.DAL.pdb
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\bin\Debug\EntityFramework.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\bin\Debug\EntityFramework.xml
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\obj\Debug\Example_Repository_Pattern.DAL.csproj.CopyComplete
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\obj\Debug\Example_Repository_Pattern.DAL.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.DAL\obj\Debug\Example_Repository_Pattern.DAL.pdb

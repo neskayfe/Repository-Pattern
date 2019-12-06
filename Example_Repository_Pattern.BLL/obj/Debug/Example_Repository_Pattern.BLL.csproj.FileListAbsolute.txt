@@ -1,0 +1,15 @@
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\Example_Repository_Pattern.BLL.dll.config
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\Example_Repository_Pattern.BLL.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\Example_Repository_Pattern.BLL.pdb
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\EntityFramework.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\Example_Repository_Pattern.DAL.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\Example_Repository_Pattern.DAL.pdb
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\Example_Repository_Pattern.DAL.dll.config
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\EntityFramework.xml
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\obj\Debug\Example_Repository_Pattern.BLL.csprojAssemblyReference.cache
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\obj\Debug\Example_Repository_Pattern.BLL.csproj.CoreCompileInputs.cache
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\obj\Debug\Example_Repository_Pattern.BLL.csproj.CopyComplete
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\obj\Debug\Example_Repository_Pattern.BLL.dll
+C:\Users\savas-pc\source\repos\Example_Repository_Pattern\Example_Repository_Pattern.BLL\obj\Debug\Example_Repository_Pattern.BLL.pdb
